@@ -236,7 +236,6 @@
 127.0.0.1 us.galleryapi.micloud.xiaomi.net
 127.0.0.1 us.statusapi.micloud.xiaomi.net
 127.0.0.1 video.intl.xiaomi.com
-127.0.0.1 weatherapi.market.xiaomi.com
 127.0.0.1 wifiapi.micloud.xiaomi.net
 127.0.0.1 www.miui.com
 127.0.0.1 www.xiaomi.com
