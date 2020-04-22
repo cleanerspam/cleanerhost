@@ -1,0 +1,6 @@
+127.0.0.1 api.zhuti.intl.xiaomi.com
+127.0.0.1 t1.market.xiaomi.com
+127.0.0.1 t2.market.mi-img.com
+127.0.0.1 weatherapi.market.xiaomi.com
+127.0.0.1 t4.market.xiaomi.com
+127.0.0.1 t3.market.mi-img.com
